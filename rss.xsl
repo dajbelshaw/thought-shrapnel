@@ -14,10 +14,12 @@
 				<xsl:value-of select="title" />
 			</title>
 			<link rel="stylesheet" type="text/css" href="/style.css" media="screen" />
-			<link rel="alternate" type="application/atom+xml" title="Feed for extinction.fyi" href="http://extinction.fyi/index.xml" />
 
-			<title>extinction.fyi</title>
-			<meta name="description" content="Documenting the climate emergency" />
+			<!-- Update the data in the three lines below-->
+			
+			<link rel="alternate" type="application/atom+xml" title="Feed" href="http://domain.com/index.xml" />
+			<title>Title</title>
+			<meta name="description" content="Description" />
 
 		</head>
 		<body>
@@ -83,7 +85,7 @@
 			</ul>
 
 			<footer>
- 			   	<a href="https://github.com/dajbelshaw/extinction-fyi">Open source</a>
+ 			   	<a href="https://github.com/dajbelshaw/styled-rss">Open source</a>
 			</footer>
 
 		</body>
