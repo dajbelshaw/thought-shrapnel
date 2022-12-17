@@ -17,7 +17,7 @@
 
 			<!-- Update the data in the three lines below-->
 			
-			<link rel="alternate" type="application/atom+xml" title="Feed" href="http://domain.com/index.xml" />
+			<link rel="alternate" type="application/atom+xml" title="Feed" href="/index.xml" />
 			<title>Title</title>
 			<meta name="description" content="Description" />
 
