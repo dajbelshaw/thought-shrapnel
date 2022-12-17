@@ -85,7 +85,7 @@
 			</ul>
 
 			<footer>
- 			   	<a href="https://github.com/dajbelshaw/styled-rss">Open source</a>
+  				<p><a href="https://github.com/dajbelshaw/styled-rss"><img src="../img/github-mark-white.png" alt="GitHub logo" width="20px" /></a></p>
 			</footer>
 
 		</body>
