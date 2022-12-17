@@ -4,7 +4,7 @@
 <rss version="2.0">
 	<channel>
 		<image>
-  		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png</url>
+  		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true</url>
   		<title>Logo</title>
 		<link>https://domain.com</link>
 		</image>
