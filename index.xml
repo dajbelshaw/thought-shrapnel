@@ -1,17 +1,19 @@
 <?xml version="1.0" ?>
-<!-- MY XSLT document to transform the RSS feed into an XHTML page. -->
+<!-- XSLT document to transform the RSS feed into an XHTML page. -->
 <?xml-stylesheet type="text/xsl" href="rss.xsl" media="screen" ?>
 <rss version="2.0">
+	
+	<!-- Update the details below with those of the cloned repository -->
 	<channel>
 		<image>
   		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true</url>
   		<title>Logo</title>
-		<link>https://domain.com</link>
+		<link>https://dajbelshaw.github.io/styled-rss</link>
 		</image>
 		<title>Title</title>
-		<link>https://domain.com</link>
+		<link>https://dajbelshaw.github.io/styled-rss</link>
  		<description>Description</description>
-		<category>Categories/divided by slash</category>
+		<category>Categories</category>
 
 
 <!-- 
