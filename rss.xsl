@@ -13,7 +13,7 @@
 			<title>
 				<xsl:value-of select="title" />
 			</title>
-			<link rel="stylesheet" type="text/css" href="/style.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="./style.css" media="screen" />
 
 			<!-- Update the data in the three lines below-->
 			
