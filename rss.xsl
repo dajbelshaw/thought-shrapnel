@@ -13,11 +13,11 @@
 			<title>
 				<xsl:value-of select="title" />
 			</title>
-			<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="/style.css" media="screen" />
 
 			<!-- Update the data in the three lines below-->
 			
-			<link rel="alternate" type="application/atom+xml" title="Feed" href="../index.xml" />
+			<link rel="alternate" type="application/atom+xml" title="Feed" href="/index.xml" />
 			<title>Title</title>
 			<meta name="description" content="Description" />
 
@@ -50,10 +50,10 @@
 					<xsl:value-of select="description" />
 				</p>
 		        <nav>
-		  <a href="../">Home</a>
-		  <a href="../about">About</a>
-		  <a href="../faq">FAQ</a>
-		  <a href="../subscribe">Subscribe</a>
+		  <a href="/">Home</a>
+		  <a href="/about">About</a>
+		  <a href="/faq">FAQ</a>
+		  <a href="/subscribe">Subscribe</a>
 			</nav>
 		  </header>
 
