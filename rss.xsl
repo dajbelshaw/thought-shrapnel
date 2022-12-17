@@ -50,10 +50,10 @@
 					<xsl:value-of select="description" />
 				</p>
 		        <nav>
-		  <a href="/">Home</a>
-		  <a href="/about">About</a>
-		  <a href="/faq">FAQ</a>
-		  <a href="/subscribe">Subscribe</a>
+		  <a href="../">Home</a>
+		  <a href="../about">About</a>
+		  <a href="../faq">FAQ</a>
+		  <a href="../subscribe">Subscribe</a>
 			</nav>
 		  </header>
 
