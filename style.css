@@ -79,7 +79,7 @@ header {
 /* Remove margins for header text */
 header h1,
 header p {
-  margin: 0;
+  margin: 0.5rem 0 0;
 }
 
 /* Fix header line height when title wraps */
