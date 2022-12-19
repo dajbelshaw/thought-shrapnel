@@ -4,5 +4,3 @@
 ### An experiment for a future direction
 
 Experimenting with a site formatted as a valid RSS feed which is then styled for the web using rss.xsl and style.css. Based on [Styled RSS](https://github.com/dajbelshaw/styled-rss).
-
-Example: https://dajbelshaw.github.io/styled-rss/
