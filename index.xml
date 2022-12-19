@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 <!-- XSLT document to transform the RSS feed into an XHTML page. -->
 <?xml-stylesheet type="text/xsl" href="./rss.xsl" media="screen" ?>
-<link rel="icon" href="./favicon.ico" type="image/x-icon">
 <rss version="2.0">
 	
 	<!-- Update the details below with those of the cloned repository -->
