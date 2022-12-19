@@ -6,14 +6,14 @@
 	<!-- Update the details below with those of the cloned repository -->
 	<channel>
 		<image>
-  		<url>https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true</url>
-  		<title>Logo</title>
-		<link>https://dajbelshaw.github.io/styled-rss</link>
+  		<url>https://github.com/dajbelshaw/thought-shrapnel/blob/main/img/thought-shrapnel-logo.png?raw=true</url>
+  		<title>Thought Shrapnel logo</title>
+		<link>https://dajbelshaw.github.io/thought-shrapnel</link>
 		</image>
-		<title>Title</title>
-		<link>https://dajbelshaw.github.io/styled-rss</link>
- 		<description>Description</description>
-		<category>Categories</category>
+		<title>Thought Shrapnel</title>
+		<link>https://dajbelshaw.github.io/thought-shrapnel</link>
+ 		<description>A stream of things going in and out of the brain of Doug Belshaw</description>
+		<category>news/technology/society</category>
 
 
 <!-- 
@@ -36,11 +36,11 @@ Note that the <link> and <source url> will usually be the same.
 -->	
 
 		<item>
-			<title>#BelshawBlackOps22</title>
-			<link>https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/</link>
-			<source url="https://dougbelshaw.com/blog/2022/12/16/belshawblackops22/">dougbelshaw.com</source>
-			<description>I'm taking some time off being ever-present online. See you in 2023!</description>
-			<pubDate>Sat, 16 December 2022 00:00:00 GMT</pubDate>
+			<title>That was 2022</title>
+			<link>https://thoughtshrapnel.com/2022/12/12/that-was-2022/</link>
+			<!-- <source url="https://thoughtshrapnel.com/2022/12/12/that-was-2022/">dougbelshaw.com</source> -->
+			<description>Inspired by Warren Ellis closing his LTD site until 2023&#44; this is a notification that Thought Shrapnel is done for the year!&#13;&#13;I may send out a &#39;best of the year&#39; newsletter (sign up here&#33;) if I don’t end up in a mince pie coma&#44; but either way thanks for your attention and appreciation. See you in January&#33;</description>
+			<pubDate>Sat, 12 December 2022 00:00:00 GMT</pubDate>
 		</item>
 
 	</channel>
