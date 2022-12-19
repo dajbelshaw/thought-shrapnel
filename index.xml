@@ -6,7 +6,7 @@
 	<!-- Update the details below with those of the cloned repository -->
 	<channel>
 		<image>
-  		<url./img/thought-shrapnel-logo.png</url>
+  		<url./img/thought-shrapnel-logo.png?raw=true</url>
   		<title>Thought Shrapnel logo</title>
 		<link>https://dajbelshaw.github.io/thought-shrapnel</link>
 		</image>
