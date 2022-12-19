@@ -1,4 +1,4 @@
-<img src="https://github.com/dajbelshaw/styled-rss/blob/main/img/thought-shrapnel-logo.png?raw=true" alt="Thought Shrapnel logo" width="200px">
+<img src="https://github.com/dajbelshaw/thought-shrapnel/blob/main/img/thought-shrapnel-logo.png?raw=true" alt="Thought Shrapnel logo" width="200px">
 
 # Thought Shrapnel
 ### An experiment for a future direction
