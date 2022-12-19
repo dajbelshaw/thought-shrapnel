@@ -1,8 +1,8 @@
-<img src="https://github.com/dajbelshaw/styled-rss/blob/main/img/rss-icon.png?raw=true" alt="Rss icon" width="200px">
+<img src="https://github.com/dajbelshaw/styled-rss/blob/main/img/thought-shrapnel-logo.png?raw=true" alt="Thought Shrapnel logo" width="200px">
 
-# Styled RSS
-### An XML-based web page that is also an RSS feed
+# Thought Shrapnel
+### An experiment for a future direction
 
-The index.xml page of this news site is formatted as a valid RSS feed which is then styled for the web using rss.xsl and style.css. The index.html pages in /about and /faq are standard HTML files.
+Experimenting with a site formatted as a valid RSS feed which is then styled for the web using rss.xsl and style.css. Based on [Styled RSS](https://github.com/dajbelshaw/styled-rss).
 
 Example: https://dajbelshaw.github.io/styled-rss/
