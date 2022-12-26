@@ -54,6 +54,7 @@
 		  <a href="./about">About</a>
 		  <a href="./faq">FAQ</a>
 		  <a href="./subscribe">Subscribe</a>
+		  <a href="https://web.archive.org/web/20221215063913/thoughtshrapnel.com">Archive</a>
 			</nav>
 		  </header>
 
